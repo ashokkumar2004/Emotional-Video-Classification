@@ -100,4 +100,4 @@ elif option == "Real-time Webcam":
             frame_placeholder.image(frame, channels="BGR")
 
         cap.release()
-        cv2.destroyAllWindows()
+        # cv2.destroyAllWindows()
