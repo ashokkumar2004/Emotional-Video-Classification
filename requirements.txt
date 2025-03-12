@@ -3,4 +3,5 @@ tensorflow
 opencv-python
 numpy
 pillow
-opencv-python
+opencv-python-headless
+
