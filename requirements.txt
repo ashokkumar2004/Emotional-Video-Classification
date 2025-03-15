@@ -4,4 +4,8 @@ opencv-python
 numpy
 pillow
 opencv-python-headless
+opencv-python
+libgl1
+
+
 
